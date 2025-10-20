@@ -38,8 +38,14 @@ DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-SUFFIX,turn.x.ai
 
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+

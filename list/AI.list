@@ -43,9 +43,10 @@ DOMAIN-SUFFIX,api.x.ai
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,turn.x.ai
-
+DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 

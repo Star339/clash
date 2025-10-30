@@ -44,11 +44,13 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,turn.x.ai
 DOMAIN-SUFFIX,scholar.google.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
 

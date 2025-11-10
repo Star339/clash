@@ -44,9 +44,12 @@ DOMAIN-SUFFIX,twitter.com
 
 DOMAIN-SUFFIX,turn.x.ai
 
-
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
 

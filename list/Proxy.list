@@ -142,7 +142,7 @@ IP-CIDR,45.87.172.0/24,no-resolve
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 
 DOMAIN-SUFFIX,fastlydns.net
-
+DOMAIN-SUFFIX,xn--mesr8b36x.cc
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google

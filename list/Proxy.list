@@ -140,6 +140,7 @@ IP-CIDR,45.87.172.0/24,no-resolve
 #自定义 
 #feimao梯子
 DOMAIN-SUFFIX,fcsblka.fcsubcn.cc
+DOMAIN-SUFFIX,linux.do
 # 小牛
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 

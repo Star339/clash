@@ -9,3 +9,4 @@ IP-CIDR,100.98.55.37/32,no-resolve
 IP-CIDR,100.110.55.100/32,no-resolve
 IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
 PROCESS-NAME,zotero.exe
+DOMAIN-SUFFIX,ars.els-cdn.com
